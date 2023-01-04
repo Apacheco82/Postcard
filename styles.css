@@ -1,6 +1,8 @@
 body {
 	background: black;
+	font-family: Garamond;
 }
+
 .postcard {
 	background: white;
 	width: 400px;
@@ -21,6 +23,7 @@ body {
 	margin: none;
 	font-family: Garamond;
 	font-size: 40px;
+	margin-left: 10px;
 }
 .postcard-body {
 	display: flex;
@@ -49,9 +52,7 @@ button {
 	margin-top: 16px;
 	margin-left: 5px;
 }
-.body-right {
+.body-left {
 	margin-left: 10px;
 }
-body {
-	font-family: Garamond;
-}
+
